@@ -1,6 +1,6 @@
 #  Loon Rules
 
-Simple rule collection for Loon.
+整理一些没有人分享但用得到的规则
 
 ---
 
