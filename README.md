@@ -6,9 +6,9 @@ Simple rule collection for Loon.
 
 ##  Rules
 
-| Name | Description | Install |
-|------|------------|--------|
-| HSBC HK | Banking traffic optimization | https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/LLYSZY/loon-rules/main/HSBC_HK.lsr |
-| Redteago | eSIM / API routing | https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/LLYSZY/loon-rules/main/Redteago.lsr |
+| Name | Install |
+|------|--------|
+| HSBC HK | https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/LLYSZY/loon-rules/main/All-rules/HSBCHK.lsr |
+| Redteago | https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/LLYSZY/loon-rules/main/All-rules/Redteago.lsr |
 
 ---

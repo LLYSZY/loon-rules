@@ -1,0 +1,12 @@
+# HSBC HK Rule Set (Loon)
+
+DOMAIN-SUFFIX,hsbc.com,DIRECT
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
+DOMAIN-SUFFIX,hsbcnet.com,DIRECT
+DOMAIN-SUFFIX,hsbcprivatebank.com,DIRECT
+DOMAIN-SUFFIX,hsbcadvance.com,DIRECT
+DOMAIN-SUFFIX,hsbcconnect.com,DIRECT
+
+DOMAIN-SUFFIX,api.hsbc.com,DIRECT
+DOMAIN-SUFFIX,auth.hsbc.com,DIRECT
+DOMAIN-SUFFIX,geolocation.hsbc.com,DIRECT
