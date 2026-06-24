@@ -1,0 +1,5 @@
+# Redteago Loon Rule Set
+
+DOMAIN-SUFFIX,redteago.com,DIRECT
+DOMAIN-SUFFIX,api.redteago.com,DIRECT
+DOMAIN-SUFFIX,cdn.redteago.com,DIRECT
